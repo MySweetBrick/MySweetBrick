@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 <div>
-  I am a Full Stack Developer from Tāmaki Makaurau
+  I am a Full Stack Developer from Tāmaki Makaurau, currently wrapping my head around containerising a MERN application for cloud deployment 😣
 </div>
 
 ---
